@@ -1,0 +1,6 @@
+{
+  "name": "DukaanVoice",
+  "description": "WhatsApp AI Voice-Ordering assistant, Siya 24/7 AI Kirana Agent, interactive catalog, and vendor dashboard for local stores.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
